@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshay898
-- 👀 I’m interested in anything that deals with data
-- 🌱 I’m currently learning hardcore coding
-- 💞️ I’m looking to collaborate on ML
+- 👀 I’m interested in any kind of challenges
+- 🌱 I’m currently learning and honing my skills
+- 💞️ I’m looking to collaborate on ML and front-end
 - 📫 How to reach me (https://www.linkedin.com/in/akshay-yadav-muchumari-123977174/)
 
 <!---
